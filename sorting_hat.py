@@ -1,3 +1,6 @@
 print ("welcome to sorting hat")
+
 bravery = input("are you brave")
-print(bravery)
+
+if bravery =="yes":
+    print("griffindor")
